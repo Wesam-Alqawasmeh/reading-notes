@@ -4,6 +4,9 @@ I`m **Wesam Alqawasmeh** , recently graduated from Albalqa Applied University as
 I am very excited to be here learning with *ASAC* and I am sure it wil be a great benefit for all!
 
 ## Table of content 
+
+**Code 102 Reading Notes:**
+
 1. [Read01](https://wesam-alqawasmeh.github.io/reading-notes/Read01)
 2. [Read02](https://wesam-alqawasmeh.github.io/reading-notes/Read02)
 3. [Growth mindset](https://wesam-alqawasmeh.github.io/reading-notes/Growth-mindset)
@@ -11,6 +14,10 @@ I am very excited to be here learning with *ASAC* and I am sure it wil be a grea
 5. [Read04](https://wesam-alqawasmeh.github.io/reading-notes/read04)
 6. [Read05](https://wesam-alqawasmeh.github.io/reading-notes/read05)
 7. [Read06](https://wesam-alqawasmeh.github.io/reading-notes/read06)
+8. [Read07]
+(https://wesam-alqawasmeh.github.io/reading-notes/read07)
+
+
 
 Read Name  | link to Read
 ------------ | -------------
@@ -21,3 +28,13 @@ Read02 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/Read02)
 | Read04 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/read04)|
 | Read05 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/read05) |
 | Read06 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/read06) 
+| Read07 | [Click here] (https://wesam-alqawasmeh.github.io/reading-notes/read07)
+
+
+
+
+**Code 201 Reading Notes:**
+
+Read Name  | link to Read
+------------ | -------------
+Read01 | link 
