@@ -13,6 +13,8 @@ Read Name  | link to Read
 ------------ | -------------
 Read01 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/class-01)
 Read02 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/class-02)
+Read03 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/class-03)
+Read04 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/class-03)
 
 
 
