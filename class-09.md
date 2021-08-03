@@ -57,3 +57,43 @@ type | description
 
 **List style type**
 
+- The list-style-type property
+allows you to control the shape
+or style of a bullet point (also
+known as a marker).
+
+**Types**
+
+1. Unordered lists.
+2. Ordered lists.
+
+
+![lists](https://data-flair.training/blogs/wp-content/uploads/sites/2/2020/07/html-lists-df.jpg)
+
+
+
+## Table properties
+
+- width : to set the width of the
+table.
+- padding : to set the space
+between the border of each table
+cell and its content.
+- text-transform : to convert the
+content of the table headers to
+uppercase.
+- letter-spacing, font-size :
+to add additional styling to the
+content of the table headers.
+
+- border-top, border-bottom :
+to set borders above and below
+the table headers.
+
+- ':hover' : to highlight a table row
+when a user's mouse goes over it. 
+
+![table](https://darswiki.bsp.ox.ac.uk/images/4/46/BBIS1_1_20_TableProperties.jpg)
+
+
+
