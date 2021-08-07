@@ -65,9 +65,9 @@ lineNumber | Line number of error
 
 **built-in error objects**
 
-OBJECT | DESCRIPTION 
-------- | -----------
-Error | Generic error - the other errors are all based upon this error
+OBJECT  | DESCRIPTION 
+----------- | -------------
+Error | Generic error - the other errors are all based upon this error|
 SyntaxError | Syntax has not been followed
 ReferenceError | Tried to reference a variable that is
 not declared/within scope
