@@ -24,6 +24,8 @@ Read10 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/class-10)
 Read11 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/class-11)
 Read12 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/class-12)
 Read13 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/class-13)
+Read14a | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/class-14a)
+Read14b | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/class-14b)
 
 
 
