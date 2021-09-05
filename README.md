@@ -7,6 +7,12 @@ I am very excited to be here learning with *ASAC* and I am sure it wil be a grea
 
 ## Table of content 
 
+**Code 301 Reading Notes:**
+
+Read Name | Link to Read
+---------- | --------------
+Read01 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/301-class-01)
+
 **Code 201 Reading Notes:**
 
 Read Name  | link to Read
