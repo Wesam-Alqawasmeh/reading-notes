@@ -12,6 +12,7 @@ I am very excited to be here learning with *ASAC* and I am sure it wil be a grea
 Read Name | Link to Read
 ---------- | --------------
 Read01 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/301-class-01)
+Read02 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/301-class-02)
 
 **Code 201 Reading Notes:**
 
