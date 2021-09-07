@@ -14,6 +14,7 @@ Read Name | Link to Read
 Read01 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/301-class-01)
 Read02 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/301-class-02)
 Read03 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/301-class-03)
+Read04 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/301-class-04)
 
 **Code 201 Reading Notes:**
 
