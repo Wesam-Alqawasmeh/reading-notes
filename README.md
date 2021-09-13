@@ -18,6 +18,7 @@ Read04 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/301/301-c
 Read05 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/301/301-class-05)
 Read06 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/301/301-class-06)
 Read07 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/301/301-class-07)
+Read08 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/301/301-class-08)
 
 **Code 201 Reading Notes:**
 
