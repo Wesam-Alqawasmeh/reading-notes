@@ -2,12 +2,26 @@
 
 ## About ME
 
-I`m **Wesam Alqawasmeh** , recently graduated from Albalqa Applied University as a Civil engineer.
-I am very excited to be here learning with *ASAC* and I am sure it wil be a great benefit for all!
+I`m **Wesam Alqawasmeh** ,23 years old. I'm a Full Stack Developer with a Civil engineering background,
+I found my passion in web development and programming in general and I'm glad to start my journy and finish it with *ASAC*.
 
 ## Table of content 
 
-**Code 301 Reading Notes:**
+---
+
+**Code 401 - Advanced Software Development**
+
+---
+
+Read Name | Link to Read
+---------- | --------------
+
+
+---
+
+**Code 301 - Intermediate Software Development**
+
+---
 
 Read Name | Link to Read
 ---------- | --------------
@@ -24,9 +38,13 @@ Read10 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/301/301-c
 Read11 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/301/301-class-11)
 Read12 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/301/301-class-12)
 Read13 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/301/301-class-13)
-Read17 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/301/301-class-14)
+Read14 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/301/301-class-14)
 
-**Code 201 Reading Notes:**
+---
+
+**Code 201 - Foundations of Software Development**
+
+---
 
 Read Name  | link to Read
 ------------ | -------------
@@ -46,31 +64,22 @@ Read13 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/201/class
 Read14a | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/201/class-14a)
 Read14b | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/201/class-14b)
 
+---
 
+**Code 102 - Intro to Software Development**
 
-**Code 102 Reading Notes:**
-
-1. [Read01](https://wesam-alqawasmeh.github.io/reading-notes/102/Read01)
-2. [Read02](https://wesam-alqawasmeh.github.io/reading-notes/102/Read02)
-3. [Growth mindset](https://wesam-alqawasmeh.github.io/reading-notes/102/Growth-mindset)
-4. [Read03](https://wesam-alqawasmeh.github.io/reading-notes/102/read03)
-5. [Read04](https://wesam-alqawasmeh.github.io/reading-notes/102/read04)
-6. [Read05](https://wesam-alqawasmeh.github.io/reading-notes/102/read05)
-7. [Read06](https://wesam-alqawasmeh.github.io/reading-notes/102/read06)
-8. [Read07](https://wesam-alqawasmeh.github.io/reading-notes/102/read07)
-
-
+---
 
 Read Name  | link to Read
 ------------ | -------------
 Growth mindset | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/Growth-mindset)
 Read01 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/Read01)
 Read02 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/Read02)
-| Read03 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/read03)|
-| Read04 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/read04)|
-| Read05 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/read05) |
-| Read06 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/read06) 
-| Read07 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/read07)
+Read03 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/read03)|
+Read04 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/read04)|
+Read05 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/read05) |
+Read06 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/read06) 
+Read07 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/read07)
 
 
 
