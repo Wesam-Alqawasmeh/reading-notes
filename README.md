@@ -15,7 +15,9 @@ I found my passion in web development and programming in general and I'm glad to
 
 Read Name | Link to Read
 ---------- | --------------
-
+Prep reading | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/401/prep-reading)
+Read01 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/401/class01)
+Read01 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/401/class02)
 
 ---
 
