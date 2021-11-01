@@ -17,7 +17,8 @@ Read Name | Link to Read
 ---------- | --------------
 Prep reading | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/401/prep-reading)
 Read01 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/401/class01)
-Read01 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/401/class02)
+Read02 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/401/class02)
+Read03 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/401/class03)
 
 ---
 
