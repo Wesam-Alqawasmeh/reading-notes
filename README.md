@@ -20,7 +20,8 @@ Read01 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/401/class
 Read02 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/401/class02)
 Read03 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/401/class03)
 Read04 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/401/class04)
-Read04 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/401/class05)
+Read05 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/401/class05)
+Read06 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/401/class06)
 
 ---
 
