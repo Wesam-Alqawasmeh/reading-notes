@@ -23,6 +23,7 @@ Read04 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/401/class
 Read05 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/401/class05)
 Read06 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/401/class06)
 Read07 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/401/class07)
+Read08 | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/401/class08)
 
 ---
 
