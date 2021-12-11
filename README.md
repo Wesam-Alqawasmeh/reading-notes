@@ -39,6 +39,7 @@ I found my passion in web development and programming in general and I'm glad to
 | Read27       | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/401/class27)      |
 | Read29       | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/401/class29)      |
 | Read30       | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/401/class30)      |
+| Read31       | [Click here](https://wesam-alqawasmeh.github.io/reading-notes/401/class31)      |
 
 ---
 
